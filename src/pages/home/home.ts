@@ -48,7 +48,7 @@ export class HomePage {
   }
 
   ionViewDidLoad() {
-    setTimeout(() => this.simplePluginTest(), 8000);
+    setTimeout(() => this.simplePluginTest(), 2000);
   }
 
 }
